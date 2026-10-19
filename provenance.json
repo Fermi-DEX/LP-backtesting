@@ -1,0 +1,29 @@
+{
+  "inspection_date": "2026-10-19",
+  "historical_commit": "e59a2a4b179963578aed629c806535e8522c7f0b",
+  "research_head": "43292846e64ec0e0b954dc399eceb48303863f5e",
+  "branches": {
+    "origin/claude/fermi-mm-production-spec-9jne6q": "7843c8915f171148dc4fe4ddabbb9dfea0edc481",
+    "origin/claude/fermi-mm-spec-v2-two-book": "c15becf0d3fbdbc190be0cc510036c1fe0f60bb1",
+    "origin/claude/mm-backtesting-harness-hf1pj4": "43292846e64ec0e0b954dc399eceb48303863f5e",
+    "origin/master": "6011b042c0960217448f34b9d349b875b4529ebd",
+    "origin/optimized-mm": "140309e766f1cbae87a9d5f2727a87b359a9cd4b"
+  },
+  "inspected_file_sha256_at_research_head": {
+    "testing-results-3-report.md": "66fa55b0f20465c367d424642088d0fb7c6e54452d3ed26aec03876e5d60bd27",
+    "testing-results-3.md": "f8e023d13ef57bd57c5b2f0ce33682c9c0532ad44ea3acfedcfc8e026c2d4120",
+    "mm/research/backtest.py": "e553be8be41f5271127f74075f040e41d14d51283c3c944e55d1e81e093edfaa",
+    "mm/research/matrix.py": "a853f659c1f85dfc8c4a4069d6d391c0edb30640cc3e1748769c55a8891eb38b",
+    "mm/research/hedge_report.py": "be2916e1cdf35f9e4bdcab79e18e1732c02bb7b6db49dfe421fa36e0c78738b3",
+    "mm/research/sim_exchange.py": "2f0c65f09aaa43ab7667e0e859bb8f695204933b70e64a0a3ae4a9caf91599a5",
+    "mm/research/datasources/binance_futures.py": "8f4cc5d35ff13768e851e1a5d17f6ad0515fd89816b1bc763c22b34966831cb1",
+    "mm/hedge/phoenix_sim.py": "ff3132fe867e0cac2d109dcc4f64d84d5829445c44a1fd7405255cb366c21dd8",
+    "config/overlays/fee100_quote.json": "d21cce149e461ecc3cf3526fb56d8ea333c2155ad5f92d0a51b60abd60d91527",
+    "config/overlays/hedge_phoenix_100k.json": "872c42a3bcdc8e1b57cb41f0e7d15c041a473a569e0b77fa0573d27a880ecf6a",
+    "pyproject.toml": "08c06ea5323fa18e25cc934b101faef55a4a019483d91066d955f4156b20a862",
+    ".gitignore": "83a4c2cbbe9f24160fda59f2e554eec1018225451bfb587db413019606ab5148"
+  },
+  "historical_raw_data_recovered": false,
+  "historical_backtest_rerun": false,
+  "publication_authorized": true
+}

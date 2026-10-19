@@ -1,0 +1,3 @@
+status,policy,test_capital_per_market_usd,observations,distinct_dates,mean_marked_pnl_usd,worst_run_pnl_usd,nonnegative_fraction_rounded,gross_maker_edge_mean_usd,relay_fees_mean_usd,hedge_fees_plus_impact_mean_usd,hedge_marked_pnl_mean_usd,max_run_drawdown_usd,peak_fermi_position_usd,maker_notional_usd,taker_notional_usd,hedge_collateral_usd,adjusted_pnl_usd
+reported_rounded_not_reproduced,robust_phoenix_2x,100000,45,5,150,-3103,0.58,428,31,151,37,4818,139912,,,,
+reported_rounded_not_reproduced,robust_phoenix_4x,100000,45,5,115,-2990,0.56,424,31,195,105,4285,139912,,,,
